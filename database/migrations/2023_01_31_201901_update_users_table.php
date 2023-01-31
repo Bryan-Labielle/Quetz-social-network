@@ -13,7 +13,7 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::table(Blueprint::class, function(Blueprint $table){
+        Schema::table('users', function(Blueprint $table){
             $table->renameColumn('name', 'username');
             $table->string('first_name');
             $table->string('last_name');
