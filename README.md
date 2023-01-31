@@ -2,8 +2,6 @@
 
 Welcome to the Developers Social Network Quetz, a personal project developed with Laravel and Vue.js. The goal of this project is to improve my skills while creating a functional social network for developers.
 
-This project is not only a social network, but also an API that allows you to consume the data using vue.js.
-
 ### Features
 
 - User authentication and registration
